@@ -8,6 +8,13 @@
 
 This library makes it easy to compute dice rolls and generate random numbers. Ideal for games, simulations, and more, it supports different types and amounts of dice. You can easily perform calculations using RPG-style dice notation like `1d4`, `d6`, `2d6+5`, `1d20-1`.
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/dice/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Install
 
 ```shell
