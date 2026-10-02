@@ -1,5 +1,11 @@
 # Dice
 
+
+[![CI](https://github.com/itsdarklikehell/dice/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/dice/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/dice)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 [![NPM version](https://img.shields.io/npm/v/@2bad/dice)](https://www.npmjs.com/package/@2bad/dice)
 [![License](https://img.shields.io/npm/l/@2bad/dice)](https://www.npmjs.com/package/@2bad/dice)
 [![GitHub Build Status](https://img.shields.io/github/actions/workflow/status/2BAD/dice/build.yml)](https://github.com/2BAD/dice/actions/workflows/build.yml)
